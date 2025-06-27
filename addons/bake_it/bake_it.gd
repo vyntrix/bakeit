@@ -1,7 +1,7 @@
 @tool
 extends EditorPlugin
 
-const BUTTON_NAME = "BakeIt"
+const BUTTON_NAME = "🍞"
 const COMPILED_MESH_NAME = "CompiledMesh"
 
 var button_bake_it: Button

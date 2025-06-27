@@ -13,6 +13,10 @@ config_version=5
 config/name="BakeIt!"
 config/features=PackedStringArray("4.4", "Forward Plus")
 
+[dotnet]
+
+project/assembly_name="BakeIt!"
+
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/bake_it/plugin.cfg")
